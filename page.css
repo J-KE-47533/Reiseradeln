@@ -15,3 +15,10 @@
     font-family: 'quicksand-bold';
     font-weight: bold;
 }
+.page h2 span {
+    margin: 0;
+    display: block;
+    font-size: 16px;
+    font-family: 'quicksand';
+    font-weight: 400;
+}
