@@ -23,6 +23,7 @@ body {
 }
 .logo-start {
     width: 80%;
+    object-fit: cover;
 }
 
 .container-start a {
