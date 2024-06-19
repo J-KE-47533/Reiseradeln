@@ -7,3 +7,10 @@
     width: 100%;
     margin-top: 2rem;
 }
+
+.page h2 {
+    margin: 0;
+    font-size: 23px;
+    font-family: 'quicksand-bold';
+    font-weight: bold;
+}

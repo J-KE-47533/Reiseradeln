@@ -19,5 +19,5 @@ function loadContent(page, elementId) {
 
 loadContent('beine.html', 'beine-content');
 loadContent('brust.html', 'brust-content');
-// loadContent('bauch.html', 'bauch-content');
-// loadContent('ruecken.html', 'rücken-content');
+loadContent('ruecken.html', 'rücken-content');
+loadContent('rudern.html', 'rudern-content');
