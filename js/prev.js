@@ -22,3 +22,4 @@ loadContent('brust.html', 'brust-content');
 loadContent('ruecken.html', 'rücken-content');
 loadContent('rudern.html', 'rudern-content');
 loadContent('bauch.html', 'bauch-content');
+
