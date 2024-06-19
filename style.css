@@ -24,6 +24,7 @@ body {
 .logo-start {
     width: 80%;
     object-fit: cover;
+    margin-top: 1.5rem;
 }
 
 .container-start a {
