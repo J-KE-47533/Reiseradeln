@@ -6,6 +6,7 @@
 .page img {
     width: 100%;
     margin-top: 2rem;
+    border-radius: 10px;
 }
 
 .page h2 {
